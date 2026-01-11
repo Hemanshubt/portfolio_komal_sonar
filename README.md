@@ -12,7 +12,7 @@ This portfolio showcases the work of **Komal Sonar**, a Full Stack Developer wit
 
 ## ✨ Features
 
-- 🎨 Modern UI with dark/light theme support
+-  Modern UI with dark/light theme support
 - 🌐 3D animations using Spline
 - 📱 Fully responsive design
 - ⚡ Fast performance with Next.js 14
@@ -55,8 +55,8 @@ This portfolio showcases the work of **Komal Sonar**, a Full Stack Developer wit
 
 1. Clone the repository
 ```bash
-git clone https://github.com/sonarkomalgithub/3d-portfolio.git
-cd 3d-portfolio
+git clone https://github.com/Hemanshubt/portfolio_komal_sonar.git
+cd portfolio_komal_sonar
 ```
 
 2. Install dependencies
