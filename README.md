@@ -4,7 +4,7 @@ A modern, interactive 3D portfolio website built with Next.js, React, and Spline
 
 ## 🚀 Live Demo
 
-[komalsonar.site](https://komalsonar.site)
+[komalsonar.site](https://portfolio-komal-sonar.vercel.app/)
 
 ## 👩‍💻 About
 
